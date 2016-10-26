@@ -9,7 +9,7 @@ public class KennyTest {
 		for(int i = 1; i < 11;i++){		
 			System.out.println(s + 10 * (i - 1));
 		}
-		
+		System.out.println("ok");
 	}
 
 }
