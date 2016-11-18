@@ -6,6 +6,10 @@ public class HelloWorld {
     System.out.println("Hello dog cat!");
   }
   
+  int cat(){
+	  return 1 ;
+  }
+  
   int doc(){
 	 return 0 ; 
   }
