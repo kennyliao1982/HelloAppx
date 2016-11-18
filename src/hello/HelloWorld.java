@@ -12,4 +12,7 @@ public class HelloWorld {
   int cat(){
 	  return 1 ;
   }
+  int returnval(){
+	  return 2;
+  }
 }
