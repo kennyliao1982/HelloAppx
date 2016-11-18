@@ -16,5 +16,11 @@ public class HelloWorld {
   int cat(){
 	  return 2 ;
   }
+//<<<<<<< HEAD
   
+//=======
+  int returnval(){
+	  return 22;
+  }
+//>>>>>>> branch 'master' of https://github.com/kennyliao1982/HelloAppx.git
 }
