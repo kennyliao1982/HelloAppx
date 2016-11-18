@@ -7,5 +7,9 @@ public class HelloWorld {
     System.out.println("Hello dog cat!");
 
   }
+  
+  int doc(){
+	 return 0 ; 
+  }
 
 }
