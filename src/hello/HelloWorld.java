@@ -6,7 +6,7 @@ public class HelloWorld {
     System.out.println("Hello dog cat!");
   }
   
-  int cat(){
+  int catandDog(){
 	  return 1 ;
   }
   
