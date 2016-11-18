@@ -13,5 +13,7 @@ public class HelloWorld {
   int doc(){
 	 return 0 ; 
   }
-
+  int cat(){
+	  return 1 ;
+  }
 }
