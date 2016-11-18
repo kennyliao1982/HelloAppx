@@ -14,6 +14,7 @@ public class HelloWorld {
 	 return 0 ; 
   }
   int cat(){
-	  return 1 ;
+	  return 2 ;
   }
+  
 }
